@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Git&apos; to &apos;SeleniumScripts&apos;&#x0D;&#x0A;- Original element: &apos;Git&apos;&#x0D;&#x0A;- Renamed element: &apos;Git&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Git&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Git" name="SeleniumScripts" references="true" stamp="1676981118047" version="1.0"/>
+</session>
